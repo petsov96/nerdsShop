@@ -1,0 +1,2 @@
+# nerdsShop
+Adaptive web-site
